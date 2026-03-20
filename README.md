@@ -9,6 +9,8 @@
 
 Zero-GC steering behaviors for autonomous agents. Boids, seek, flee, wander, path following, curl noise.
 
+**[→ Live Recipes Gallery Demo](https://cdpn.io/pen/debug/KwgvQrj)**
+
 **10,000 boids at 60fps. 6 scratchpad vectors. Zero garbage collection.**
 
 ## Why lite-steer?

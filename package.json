@@ -1,7 +1,7 @@
 {
   "name": "@zakkster/lite-steer",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-GC steering behaviors for autonomous agents. Boids, seek, flee, wander, path following, curl noise. Built on lite-vec.",
   "type": "module",
   "main": "Steer.js",
@@ -19,13 +19,13 @@
     "README.md"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/PeshoVurtoleta/zakkster-lite-steer#readme",
+  "homepage": "https://github.com/PeshoVurtoleta/lite-steer#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeshoVurtoleta/zakkster-lite-steer.git"
+    "url": "git+https://github.com/PeshoVurtoleta/lite-steer.git"
   },
   "bugs": {
-    "url": "https://github.com/PeshoVurtoleta/zakkster-lite-steer/issues",
+    "url": "https://github.com/PeshoVurtoleta/lite-steer/issues",
     "email": "shinikchiev@yahoo.com"
   },
   "dependencies": {

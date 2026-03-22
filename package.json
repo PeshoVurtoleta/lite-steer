@@ -1,7 +1,7 @@
 {
   "name": "@zakkster/lite-steer",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zero-GC steering behaviors for autonomous agents. Boids, seek, flee, wander, path following, curl noise. Built on lite-vec.",
   "type": "module",
   "main": "Steer.js",
